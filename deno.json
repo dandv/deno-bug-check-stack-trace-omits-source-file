@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@anthropic-ai/sdk": "npm:@anthropic-ai/sdk@^0.33.1"
+  },
+  "tasks":{
+    "bug": "deno check main.ts"
+  }
+}
